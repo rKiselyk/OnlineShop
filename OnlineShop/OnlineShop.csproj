@@ -223,6 +223,9 @@
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\GenericRepository.cs" />
+    <Compile Include="Repository\GenericUnitOfWork.cs" />
+    <Compile Include="Repository\IRepositiry.cs" />
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
